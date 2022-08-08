@@ -26,6 +26,5 @@ public class HomeController {
 		{
 			return "You have enjoyed the fruits of your labor but now is a great time to spend time with family and friends.";
 		}
-		
 	}
 }
